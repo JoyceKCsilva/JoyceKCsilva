@@ -1,22 +1,18 @@
 ## Olá! Eu sou a Joyce Silva 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Bem-vindo ao meu perfil GitHub! Sou um desenvolvedor apaixonado por tecnologia e inovação. Aqui você encontrará alguns dos meus projetos e contribuições.
 
-<div>
-  <a href="https://github.com/JoyceKCsilva"/>
-  <img heigth="180" src="https://github-readme-stats.vercel.app/api?username=JoyceKCsilva&show_icons=true&bg_color=#004989,#120C2D">
-  <img heigth="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoyceKCsilva&layout=compact">
+## 🔧 Tecnologias e Ferramentas
+
+<div style="display: inline_block"><br>
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
 </div>
 
+##
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoyceKCsilva&show_icons=true&theme=midnight-purple)
 
-<div>
-  <img aligth="center" heigth="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg">        
-</div>
