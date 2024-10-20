@@ -3,8 +3,8 @@
 Bem-vindo ao meu perfil GitHub! Sou uma desenvolvedora facinada por Dados e Algoritimos. Me indentifico como Back-end Developer. Aqui você encontrará alguns dos meus projetos e contribuições.
 
 <div style="display: inline_block">
-  <img align="center" height="240"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoyceKCsilva&theme=radical&locale=pt-br">
-  <img align="center" height="240"  src="https://github-readme-stats.vercel.app/api?username=JoyceKCsilva&show_icons=true&theme=radical&locale=pt-br">
+  <img align="center" height="200"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoyceKCsilva&theme=radical&locale=pt-br">
+  <img align="center" height="200"  src="https://github-readme-stats.vercel.app/api?username=JoyceKCsilva&show_icons=true&theme=radical&locale=pt-br">
 </div>
 
 ## Outras Tecnologias
