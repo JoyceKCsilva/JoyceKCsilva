@@ -12,7 +12,7 @@ Bem-vindo ao meu perfil GitHub! Sou uma desenvolvedora facinada por Dados e Algo
 <div style="display: inline_block">
   <img align="center" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" height="80" width="90" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" height="70" width="90" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
+  
 </div>
 
 ## Onde me encontrar
